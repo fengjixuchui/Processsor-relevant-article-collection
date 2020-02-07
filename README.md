@@ -9,11 +9,14 @@
 1. [性能之殇：从冯·诺依曼瓶颈谈起](https://zhuanlan.zhihu.com/p/52721155)
 1. [CPU怎么保证内存访问冲突？一致性？](https://www.toutiao.com/a6748042646326870541/)
 1. [最全总结！嵌入式系统知识和接口技术](https://www.toutiao.com/i6751313894649643533/)
+1. [嵌入式开发中那些需要了解的硬件](https://www.toutiao.com/i6729372412858597902/)
 1. [Microsoft NUMA Support](https://docs.microsoft.com/en-us/windows/win32/procthread/numa-support)
 1. [CPU硬件辅助虚拟化技术](https://www.toutiao.com/i6768263764224508428/)
 1. [计算机的Cache和Memory访问时Write-back，Write-through及write allocate的区别](https://www.cnblogs.com/guojingdeyuan/p/7626983.html)
 1. [Understanding write-through, write-around and write-back caching (with Python)](https://shahriar.svbtle.com/Understanding-writethrough-writearound-and-writeback-caching-with-python)
 1. [圖解RAM結構與原理，系統記憶體的Channel、Chip與Bank](https://www.techbang.com/posts/18381-from-the-channel-to-address-computer-main-memory-structures-to-understand?fbclid=IwAR0yj1dCTZmi0FpYLDV6BfwEj11iVtLMtIHq1bdep7CtH9V6YzFhliU6tK4)
+1. [英特尔漏洞门原理解析，保护模式是如何失效的？](https://www.toutiao.com/i6509335383929520648/)
+1. [剖析内存中的程序之秘](https://www.toutiao.com/i6513516605794681347/)
 
 <br />
 
